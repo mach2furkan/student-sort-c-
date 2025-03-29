@@ -1,0 +1,3 @@
+/Users/furkanaskin/Desktop/C Projeler/student sort /cmake-build-debug/CMakeFiles/student_sort_.dir
+/Users/furkanaskin/Desktop/C Projeler/student sort /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/furkanaskin/Desktop/C Projeler/student sort /cmake-build-debug/CMakeFiles/rebuild_cache.dir
